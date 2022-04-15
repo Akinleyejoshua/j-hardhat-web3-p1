@@ -13,3 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+This is a solidity project for makinf transactions with ethereum currency
